@@ -47,12 +47,13 @@ Ferramenta desenvolvida e mantida por fabricio.cruz@claro.com.br
             
 ### Dados Utilizados
 Os arquivos utilizados na análise estão disponíveis em:
-1. Repositório de Dados do Portal Roma ./xls
-2. Disponibilidade ./trecho""")
+1. Repositório de Dados do Portal Roma 
+2. Trecho Cedido""")
 
 # Adicionando rodapé com informações de direitos autorais
 st.markdown("---")
 st.markdown(
+    
     """
     <div style="text-align: center; color: white; background-color: #262730; padding: 10px;">
         Copyright © 2025 Todos os direitos reservados - Claro Brasil C:\Users\fr_cl\Downloads\claro-logo-.png
