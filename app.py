@@ -55,7 +55,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: white; background-color: #262730; padding: 10px;">
-        Copyright © 2025 Todos os direitos reservados - Claro Brasil C:\Users\fr_cl\Downloads\claro-logo-.png
+        Copyright © 2025 Todos os direitos reservados - Claro Brasil
     </div>
     """, 
     unsafe_allow_html=True
