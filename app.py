@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Pesquisa de Rotas", layout="wide")
 st.markdown("""
-    <h1 style="font-size: 24px; color: #6A6373;">🛣️ Trecho Claro Cedente</h1>
+    <h1 style="font-size: 24px; color: #FEC721;">🛣️ Trecho Claro Cedente</h1>
 """, unsafe_allow_html=True)
 
 # Upload do arquivo
