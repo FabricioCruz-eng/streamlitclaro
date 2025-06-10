@@ -47,8 +47,8 @@ Ferramenta desenvolvida e mantida por fabricio.cruz@claro.com.br
             
 ### Dados Utilizados
 Os arquivos utilizados na análise estão disponíveis em:
-1. Repositório de Dados do Portal Roma 
-2. Trecho Cedido""")
+1. 🗃️ Repositório de Dados do Portal Roma 
+2. 🔓 Trechos Cedidos """)
 
 # Adicionando rodapé com informações de direitos autorais
 st.markdown("---")
