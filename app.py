@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openpyxl as op
+import openpyxl as xl
 
 st.set_page_config(page_title="Pesquisa de Rotas", layout="wide")
 st.title("Pesquisa de Rotas")
