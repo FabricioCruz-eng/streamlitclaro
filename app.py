@@ -2,7 +2,9 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(page_title="Pesquisa de Rotas", layout="wide")
-st.title(" 🛣️ Trecho Claro Cedente")
+st.markdown("""
+    <h1 style="font-size: 24px; color: #4CAF50;">🛣️ Trecho Claro Cedente</h1>
+""", unsafe_allow_html=True)
 
 # Upload do arquivo
 dados = None
